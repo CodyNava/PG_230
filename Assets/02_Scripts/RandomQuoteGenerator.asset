@@ -12,3 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad0f0b4e5c710be4eb94e7dd6eebd7c2, type: 3}
   m_Name: RandomQuoteGenerator
   m_EditorClassIdentifier: 
+  list:
+  - "\"Ich gehe durch den Regen, dann sieht man meine Tr\xE4nen nicht\""
+  - '"S(he) be(lie)ved"'
+  - '"Never waste your diamonds on a hoe"'
